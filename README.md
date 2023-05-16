@@ -1,6 +1,5 @@
 Emil Beli<br>
 beli0135@gmail.com<br>
-+381 69 49 000 19
 
 ## Setup: Preparation
 - Create database ex. "<font color="rgb(187 247 208)">menutest</font>"
